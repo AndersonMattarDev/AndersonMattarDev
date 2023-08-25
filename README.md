@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AndersonMattarDev/AndersonMattarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Anderson Moreno Mattar
 
-Here are some ideas to get you started:
+✔ I'm front end developer jr
+<br>
+✔ My skils are, HTML5, CSS, JavaScript, ReactJs, nodeJs, git, github, scrum, clean code, agile.
+<br>
+✔ I love technology and challenges, and I'm always looking to acquire knowledge!
+<br>
+✔ I'm motivated, focused and never give up, always looking to improve!
+<br>
+❤(☞ﾟヮﾟ)☞ Anyway, challenges don't scare me, they are my fuel!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
