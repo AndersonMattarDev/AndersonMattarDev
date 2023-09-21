@@ -8,7 +8,7 @@
 <br>
 ✔ I love technology and challenges, and I'm always looking to acquire knowledge!
 <br>
-✔ I'm motivated, focused and never give up, always looking to improve!
+✔ I'm a man motivated, focused and never give up, always looking to improve!
 <br>
 ❤(☞ﾟヮﾟ)☞ Anyway, challenges don't scare me, they are my fuel!
 
