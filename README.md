@@ -4,7 +4,7 @@
 
 ✔ I'm front end developer jr
 <br>
-✔ My skils are, HTML5, CSS, JavaScript, ReactJs, nodeJs, git, github, scrum, clean code, agile.
+✔ My skils are, HTML5, CSS, JavaScript, ReactJs, nodeJs, git, github, scrum, clean code, agile, PHP and PHP object-oriented.
 <br>
 ✔ I love technology and challenges, and I'm always looking to acquire knowledge!
 <br>
