@@ -15,12 +15,13 @@
 
 **Front-end**
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React.js, Next.js, Angular, Vue.js
+- React.js, Next.js, Angular, Vue.js all -> (Object-Oriented)
 
 **Back-end & Databases**
-- Node.js, Python
+- Node.js
 - PHP (Object-Oriented)
 - SQL, SQLite
+- Python (Object-Oriented)
 
 **Workflow & Methodologies**
 - Git & GitHub
